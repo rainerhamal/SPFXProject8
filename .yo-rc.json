@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-http-client-demo",
+    "libraryId": "9d3c9011-7d98-4395-8067-b8b280754d7d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFXHttpClientDemo",
+    "solutionShortDescription": "SPFXHttpClientDemo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
